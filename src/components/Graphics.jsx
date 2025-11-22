@@ -118,14 +118,17 @@ export default function Graphics() {
                 Click to view full resolution or download this design.
               </p>
             </div>
-            <button className="w-full bg-gray-800 text-white py-2 rounded-lg font-semibold hover:bg-gray-600 transition-colors"  href="https://mail.google.com/mail/u/0/#inbox?compose=DmwnWsTQPKWlVPlXMLBhtFbrrpPrBKkrCtbMzzJhQHDlHdkhfFSgHpzgVHBtWtGSbsJGPfRlpPRB">
+            <a href="https://mail.google.com/mail/u/0/#inbox?compose=DmwnWsTQPKWlVPlXMLBhtFbrrpPrBKkrCtbMzzJhQHDlHdkhfFSgHpzgVHBtWtGSbsJGPfRlpPRB">
+            <button className="w-full bg-gray-800 text-white py-2 rounded-lg font-semibold hover:bg-gray-600 transition-colors" >
                 Inquire about this Design
             </button>
+            </a>
           </div>
         )}
       </Modal>
     </section>
   );
 }
+
 
 
