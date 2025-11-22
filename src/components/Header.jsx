@@ -22,7 +22,7 @@ export default function Header() {
             
             {/* Profile image container */}
             <img
-              src="../public/profile.jpg"
+              src="profile.jpg"
               alt="Jhemica Aradillos"
               className="w-full h-full object-cover rounded-full shadow-2xl border-4 border-white/30"
             />
@@ -73,3 +73,4 @@ export default function Header() {
     </header>
   );
 }
+
