@@ -29,7 +29,7 @@ export default function Header() {
             {/* Profile image container */}
             <div className="relative w-full h-full rounded-full overflow-hidden shadow-2xl border-4 border-white/40 group-hover:border-white/60 transition-all duration-500 group-hover:scale-105">
               <img
-                src="../public/profile.jpg"
+                src="profile.jpg"
                 alt="Jhemica Aradillos"
                 className="w-full h-full object-cover"
               />
@@ -96,3 +96,4 @@ export default function Header() {
     </header>
   );
 }
+
