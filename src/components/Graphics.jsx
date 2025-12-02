@@ -9,37 +9,37 @@ export default function Graphics() {
       id: 1,
       title: 'Calling Card Design',
       category: 'Calling Card',
-      image: '../public/junkshopcc.jpg',
+      image: 'junkshopcc.jpg',
     },
     {
       id: 2,
       title: 'Calling Card Design',
       category: 'Design 2',
-      image: '../public/junkshopcc2.jpg',
+      image: 'junkshopcc2.jpg',
     },
     {
       id: 3,
       title: 'Loyalty Card Design',
       category: 'Front Side',
-      image: '../public/reisen.jpg',
+      image: 'reisen.jpg',
     },
     {
       id: 4,
       title: 'Loyalty Card Design',
       category: 'Back Side',
-      image: '../public/loyaltycard.jpg',
+      image: 'loyaltycard.jpg',
     },
     {
       id: 5,
       title: 'Poster Design',
       category: 'Car Rental Poster',
-      image: '../public/carrental.jpg',
+      image: 'carrental.jpg',
     },
     {
       id: 6,
       title: 'Logo Design',
       category: 'Company Logo',
-      image: '../public/logo.jpg',
+      image: 'logo.jpg',
     },
   ];
 
@@ -152,3 +152,4 @@ export default function Graphics() {
     </section>
   );
 }
+
