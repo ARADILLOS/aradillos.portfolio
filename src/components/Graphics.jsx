@@ -13,9 +13,9 @@ export default function Graphics() {
     },
     {
       id: 2,
-      title: 'Calling Card Design',
-      category: 'Design 2',
-      image: 'junkshopcc2.jpg',
+      title: 'Signage Poster Design',
+      category: 'Poster Signage',
+      image: 'signage.jpg',
     },
     {
       id: 3,
@@ -152,4 +152,5 @@ export default function Graphics() {
     </section>
   );
 }
+
 
