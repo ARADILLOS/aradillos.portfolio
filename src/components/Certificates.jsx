@@ -11,7 +11,7 @@ export default function Certificates() {
       issuer: 'Tesda',
       date: 'September 19, 2023',
       description: 'Comprehensive course covering HTML, CSS, and Javascript.',
-      image: 'cwd.jpg',
+      image: 'CWD.jpg',
     },
     {
       id: 2,
@@ -19,7 +19,7 @@ export default function Certificates() {
       issuer: 'Tesda',
       date: 'September 3, 2025',
       description: 'Computer Systems Servicing NCII covers hardware/software installation, troubleshooting, and network setup.',
-      image: 'nc2.jpg',
+      image: 'NC2.jpg',
     },
     {
       id: 3,
@@ -193,4 +193,5 @@ export default function Certificates() {
     </section>
   );
 }
+
 
