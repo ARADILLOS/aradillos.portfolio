@@ -9,17 +9,17 @@ export default function Certificates() {
       id: 1,
       title: 'Creative Web Design',
       issuer: 'Tesda',
-      date: 'March 2023',
+      date: 'September 19, 2023',
       description: 'Comprehensive course covering HTML, CSS, and Javascript.',
-      image: 'To be updated',
+      image: 'cwd.jpg',
     },
     {
       id: 2,
       title: 'NCII',
       issuer: 'Tesda',
-      date: 'To be updated',
-      description: 'To be updated',
-      image: 'To be updated',
+      date: 'September 3, 2025',
+      description: 'Computer Systems Servicing NCII covers hardware/software installation, troubleshooting, and network setup.',
+      image: 'nc2.jpg',
     },
     {
       id: 3,
@@ -193,3 +193,4 @@ export default function Certificates() {
     </section>
   );
 }
+
